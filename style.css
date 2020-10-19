@@ -1,0 +1,25 @@
+.points,
+.card {
+  /* min-width: 100px; */
+  min-height: 50px;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 5px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.active-red {
+  background-color: crimson;
+}
+
+.active-orange {
+  background-color: orangered;
+}
+.active-magenta {
+  background-color: magenta;
+}
+.active-yellow {
+  background-color: gold;
+}
